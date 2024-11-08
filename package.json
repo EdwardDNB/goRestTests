@@ -1,0 +1,15 @@
+{
+  "name": "gorest",
+  "version": "1.0.0",
+  "main": "apiTests.js",
+  "scripts": {
+        "test": "mocha *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.8.2",
+    "supertest": "^7.0.0"
+  }
+}
